@@ -1,0 +1,19 @@
+.contain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.content{
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.link:hover{
+  color: green;
+  cursor: pointer;
+}
+
+
